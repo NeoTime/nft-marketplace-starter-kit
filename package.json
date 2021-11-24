@@ -43,6 +43,7 @@
   ],
   "main": "index.js",
   "devDependencies": {
+    "hardhat": "^2.6.8",
     "mocha": "^4.1.0"
   },
   "repository": {
